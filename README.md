@@ -1,1 +1,1 @@
-# SpambotV1
+# Spambot
