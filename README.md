@@ -1,7 +1,11 @@
 # Spambot
 This is an Spambot by CuzImBisonratte
 To run it, please look at this:
-###V1
+### V1 or V2
+Go into the Code and change the Things.
+### V3+
+Just open the file and the Code will do everything for you.
+
 
 
 Version | Erklärung
