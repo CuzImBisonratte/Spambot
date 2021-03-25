@@ -1,4 +1,9 @@
 # Spambot
+This is an Spambot by CuzImBisonratte
+To run it, please look at this:
+###V1
+
+
 Version | Erklärung
 -|-
 V1 | The Standart Version 
